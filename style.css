@@ -1,3 +1,13 @@
+body {
+    background-image: url(Sin\ título.jpeg);
+    background-size: cover;
+    background-position:center center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+/* === VARIABLES DE COLOR === */
 :root {
     --color-principal: #c0392b;     /* Cabecera y botones */
     --color-secundario: #faf6f2;    /* Fondo general */
@@ -25,12 +35,6 @@ button:hover, nav a:hover, footer a:hover {
     color: white;
 }
 
-/* === VARIABLES DE COLOR === */
-:root {
-    --color-principal: #d9534f;
-    --color-secundario: #f7f7f7;
-    --color-texto: #333;
-}
 
 /* === ESTILOS GENERALES === */
 body {
