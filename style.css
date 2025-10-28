@@ -1,5 +1,5 @@
 body {
-    background-image: url(Sin\ título.jpeg);
+    background-image: url(pngtree-restaurant-interior-with-some-wooden-tables-and-chairs-picture-image_2760242.jpg);
     background-size: cover;
     background-position:center center;
     background-attachment: fixed;
@@ -91,6 +91,21 @@ nav a:hover {
 .presentacion {
     text-align: center;
     padding: 60px 20px;
+}
+.presentacion h1 {
+    font-size: 51px; /* Tamaño del texto */
+    font-family: "Arial", serif; /* Tipo de letra */
+    color:rgb(241, 241, 241); /* Usa tu color principal */
+    font-weight: bold; /* Hace el texto más grueso */
+    margin-bottom: 20px; /* Espacio debajo del título */
+}
+
+.presentacion p {
+    font-size: 20px; /* Tamaño del texto */
+    font-family: "Arial", serif; /* Tipo de letra */
+    color:rgb(224, 224, 224); /* Usa tu color principal */
+    font-weight: bold; /* Hace el texto más grueso */
+    margin-bottom: 20px; /* Espacio debajo del título */
 }
 
 .presentacion img {
