@@ -103,7 +103,7 @@ nav a:hover {
 .presentacion p {
     font-size: 20px; /* Tamaño del texto */
     font-family: "Arial", serif; /* Tipo de letra */
-    color:rgb(224, 224, 224); /* Usa tu color principal */
+    color: rgb(224, 224, 224); /* Usa tu color principal */
     font-weight: bold; /* Hace el texto más grueso */
     margin-bottom: 20px; /* Espacio debajo del título */
 }
